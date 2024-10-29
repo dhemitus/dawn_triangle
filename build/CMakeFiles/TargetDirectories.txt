@@ -1,3 +1,0 @@
-/Users/syamsudin/Projects/cpp/dawn-triangle/build/CMakeFiles/App.dir
-/Users/syamsudin/Projects/cpp/dawn-triangle/build/CMakeFiles/edit_cache.dir
-/Users/syamsudin/Projects/cpp/dawn-triangle/build/CMakeFiles/rebuild_cache.dir
